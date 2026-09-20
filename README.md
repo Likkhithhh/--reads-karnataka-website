@@ -43,3 +43,16 @@ Local Firebase cache data, macOS metadata, logs, and environment files are exclu
 ## Asset note
 
 The prepared project bundle contains the site's JPG/PNG image assets. The connected GitHub integration used for this update can create text files but does not expose binary-file upload, so the HTML/CSS/JS/Firebase source is committed here while the image assets remain in the prepared project bundle.
+
+
+---
+
+## Portfolio navigation
+
+- [QOS-VIDEO](https://github.com/Likkhithhh/QOS-VIDEO) — ML-based video-streaming QoS simulation
+- [weatherAPP](https://github.com/Likkhithhh/weatherAPP) — JavaScript weather dashboard
+- [pingSim](https://github.com/Likkhithhh/pingSim) — Python networking simulator
+- [lexgen](https://github.com/Likkhithhh/lexgen) — lexer generator / compiler-design project
+- [ATTENDENCEBOT](https://github.com/Likkhithhh/ATTENDENCEBOT) — face-recognition reference work
+- [Student Dropout Risk Prediction System](https://github.com/Likkhithhh/student-dropout-risk-system) — READS Python/AI/ML internship project
+- [READS Karnataka Website](https://github.com/Likkhithhh/--reads-karnataka-website) — READS static website project
