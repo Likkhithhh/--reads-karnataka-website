@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "reads-ballari"
+  },
+  "targets": {
+    "reads-ballari": {
+      "hosting": {
+        "main": [
+          "reads-ballari-karnataka"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
